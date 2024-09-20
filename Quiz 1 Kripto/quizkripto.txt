@@ -1,0 +1,8 @@
+This is a sample text for cryptography testing.
+It contains various characters, including:
+- Uppercase and lowercase letters
+- Numbers: 1234567890
+- Special characters: !@#$%^&*()-_=+[]{}|;:'",.<>?/
+- Spaces and new lines
+
+Feel free to modify this text for your experiments.
